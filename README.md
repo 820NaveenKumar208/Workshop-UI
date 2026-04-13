@@ -1,6 +1,6 @@
 # **Workshop Booking**
 
-> This website is for coordinators to book a workshop(s), they can book a workshop based on instructors posts or can propose a workshop date based on their convenience.
+> This website design by Naveen Kumar T (B.Tech-IT) and it's for coordinators to book a workshop(s), they can book a workshop based on instructors posts or can propose a workshop date based on their convenience.
 
 
 ### Overview:
@@ -115,25 +115,26 @@ npm start
 <img width="1578" height="644" alt="Screenshot 2026-04-13 234724" src="https://github.com/user-attachments/assets/9536b6a0-befa-4a92-95de-66f4fd6d36d9" />
 
 ## OUTPUT:
-LOGIN_PAGE
+### LOGIN_PAGE
 <img width="1878" height="879" alt="image" src="https://github.com/user-attachments/assets/35ef98ea-a70b-4380-a864-928b1bb3be94" />
 
-HOME_PAGE
+### HOME_PAGE
 <img width="1903" height="892" alt="Screenshot 2026-04-13 233448" src="https://github.com/user-attachments/assets/eae36333-4b61-4792-b58f-c1b6ea0e58be" />
 
-WORKSHOP_UI
+### WORKSHOP_UI
+<img width="1892" height="887" alt="image" src="https://github.com/user-attachments/assets/5c93491b-b18e-4f51-9c02-fcd4230c606f" />
 
-VIEW_Available Workshops
+#### VIEW_Available Workshops
 <img width="1901" height="893" alt="Screenshot 2026-04-13 233723" src="https://github.com/user-attachments/assets/3ab537b6-d917-4bd7-8732-fecbb299b109" />
 
-DASHBOARD:
+### DASHBOARD:
 <img width="1888" height="886" alt="image" src="https://github.com/user-attachments/assets/ec7fba92-4ad1-4e2a-ac3e-42786185133a" />
 
-TRACKER_PAGE
+### TRACKER_PAGE
 <img width="1898" height="888" alt="image" src="https://github.com/user-attachments/assets/a09547a8-9fdb-44b0-8fdc-4d03e07aff7f" />
 
 
-ACCOUT_CREATE
+### ACCOUNT_CREATE
 <img width="1878" height="882" alt="Screenshot 2026-04-13 234139" src="https://github.com/user-attachments/assets/bc690476-981c-4d8e-9b39-f0a336ccd62b" />
 
 ## Conclusion:
